@@ -22,7 +22,10 @@ LOCATION_TYPE:
 Holiday more sales then other days
 
 
+![download (3)](https://user-images.githubusercontent.com/73115703/147383071-f26c623a-66f4-4820-ab4f-3535ce031c03.png)
+
 
 
 MACHINE LEARNING MODEL USED:
+           LinearRegression,Lasso,Ridge,Root mean Squred error,Decision Tree,Random Forest,GradientBoosting
         
