@@ -13,3 +13,16 @@ STORE_TYPE:
 
 LOCATION_TYPE:
        Which location is best
+       
+       
+![download (1)](https://user-images.githubusercontent.com/73115703/147383012-ca56c34a-4855-4456-840f-4cbfdfa90066.png)
+
+
+
+Holiday more sales then other days
+
+
+
+
+MACHINE LEARNING MODEL USED:
+        
